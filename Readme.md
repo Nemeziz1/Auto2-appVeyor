@@ -1,1 +1,0 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/g6o6otnlrlskxue2?svg=true)](https://ci.appveyor.com/project/Nemeziz1/auto2-appveyor-8aree)
